@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lime_txt_color">#FFD13C</color>
+    <color name="Button_BgColour">#4C071B</color>
+    <color name="Button_TxtColor">#F7DC6F</color>
+    <color name="noti_color">#4C071B</color>
+    <color name="Question_TxtColour">#F3E19C</color>
+</resources>

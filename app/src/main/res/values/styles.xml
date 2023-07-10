@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="title_TxtStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">39dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginEnd">338dp</item>
+        <item name="android:fontFamily">@font/asap_medium</item>
+        <item name="android:textColor">@color/lime_txt_color</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Button_Style">
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_margin">@dimen/Button_margin</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:backgroundTint">@color/Button_BgColour</item>
+        <item name="android:padding">@dimen/Button_padding</item>
+        <item name="android:textColor">@color/Button_TxtColor</item>
+    </style>
+</resources>

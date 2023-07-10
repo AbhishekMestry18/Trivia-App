@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: 18/30</string>
+    <string name="True_ButtonText">TRUE</string>
+    <string name="False_ButtonText">FALSE</string>
+    <string name="Next_ButtonText">NEXT</string>
+    <string name="correct_answer" type="id">Correct!</string>
+    <string name="wrong_answer" type="id">Incorrect!</string>
+    <string name="placeholder_question">I think I\'m a trivia nerd. I love to learn about everything. I\'m curious.</string>
+    <string name="text_formatted">Question: %d/%d</string>
+</resources>
